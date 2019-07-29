@@ -19,7 +19,7 @@
  # 
  # Complete re-write from Version 1.
  # Now handles Multiple Instances and the main gathering works on PS Version 2.
- # Checks for PS V2 and tells you at the end to email Rob Lindahl to see if it pulled down correctly. 
+ # Checks for PS V2. 
  # The only function not supported in PS V2 in this script is the compression. 
  # 
  # Future revision will have improved logic and possible V2 compression function. 
